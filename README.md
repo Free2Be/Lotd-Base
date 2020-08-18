@@ -1,6 +1,5 @@
 # Lotd-Base
 
-# LotD-Base
 
 - [LOTD](#LOTD)
   - [Preamble](#preamble)
