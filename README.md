@@ -1,6 +1,6 @@
 # Lotd-Base
 
-# Equanimity
+# LotD-Base
 
 - [LOTD](#LOTD)
   - [Preamble](#preamble)
